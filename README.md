@@ -2,7 +2,7 @@
 
 # Relógio Digital Simples
 
-![Relogio digital](img src="./assets/Captura de tela 2024-03-12 130725.png")
+<img src="assets/Captura de tela 2024-03-12 130725.png">
 
 Este é um projeto simples de um relógio digital criado para fins de aprendizado e prática em JavaScript. O relógio exibe a hora atual em um formato digital simples, utilizando HTML para estrutura, CSS para estilização e JavaScript para a lógica de atualização do tempo.
 
