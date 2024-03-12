@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap')
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+   background: rgb(68, 73, 105);
+   font-family: "Ojuju", sans-serif;
+   font-size: larger;
+}
+
+header{
+   text-align: center;
+   color: rgb(210, 168, 210);
+   margin: 50px 20px;
+}
+
+section {
+    background-color: beige;
+    border-radius: 20px;
+    padding: 25px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 20px 20px 20px rgba(240, 240, 242, 0.273);
+    
+}
+
+div{
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+    color: beige;
+    margin-top: 20px;
+}
